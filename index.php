@@ -1,3 +1,3 @@
 <?php
 phpinfo();
-echo "Changes edited on develop branch";
+echo "Changes edited on develop branch added";
